@@ -1,5 +1,4 @@
-# EEG Visualization Shiny App
-#### DS4BME Project Documentation
+### Documentation
 
 This App loads EEG data files that are in ".set" format and provide different plots based on user selection.  
 #### Background:
